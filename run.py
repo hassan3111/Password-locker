@@ -216,7 +216,7 @@ def main():
                         copy_credentials(account_name)
                         print('\n')
                     else:
-                        print('Wrong option entered. Try again!')
+                        print('Wrong option entered. Try again! or create an accout')
 
             else:
                 print(' ')
