@@ -18,4 +18,3 @@ class User:
         save_user method that saves new user object
         '''
         User.user_list.append(self)
-        User.user
