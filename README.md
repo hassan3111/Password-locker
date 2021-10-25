@@ -1,4 +1,4 @@
-## Author
+<!-- ## Author
 Ali Hassan
 ## Description
 This is an application which generates passwords and as well stores credentials
@@ -15,4 +15,10 @@ python  version 3.8
 Go to the terminal . Type this command in the terminal ./run.py and press enter .The terminal displays a statement .
 use the short codes illustrated there to create account, find credentials ,exit et all
 ## License
-This project is under the [MIT](LICENSE) licence
+This project is under the [MIT](LICENSE) licence -->
+
+## Author
+Ali Hassan
+## Description
+This is an application which generates passwords and as well stores credentials
+## SETUP
