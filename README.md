@@ -23,3 +23,4 @@ Ali Hassan
 This is an application which generates passwords and as well stores credentials
 ## SETUP
 1.Go to github and search 'hassan'
+find my repo Password-locker or use the repo link[https://github.com/hassan3111/Password-locker]
