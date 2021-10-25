@@ -21,4 +21,3 @@ This project is under the [MIT](LICENSE) licence -->
 Ali Hassan
 ## Description
 This is an application which generates passwords and as well stores credentials
-## SETUP
