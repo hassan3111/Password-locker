@@ -220,7 +220,7 @@ def main():
 
             else:
                 print(' ')
-                print('Wrong details entered. TRy again')
+                print('Wrong details entered. Try again')
 
         else:
             print("-"*20)
