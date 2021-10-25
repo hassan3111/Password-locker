@@ -121,7 +121,7 @@ def main():
                     print("--"*20)
                     print('Our short codes: \n cc-Create a Credential \n sc-Show Credentials \n fc- Find a Credential  \n ex-Exit')
                     print('\n')
-                    short_code = input('Enter a choice: ').lower()
+                    short_code = input('Enter a Choice: ').lower()
                     print("-"*10)
 
 
