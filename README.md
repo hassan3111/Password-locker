@@ -28,3 +28,6 @@ find my repo Password-locker or use the repo link[https://github.com/hassan3111/
 clone the repository
 open terminal from within the folder
 run the python3.8-run.py command in terminal nd use the short codes
+
+## Technologies used
+python  version 3.8 
