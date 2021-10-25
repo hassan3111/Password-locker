@@ -101,7 +101,7 @@ def main():
             password = input('Enter your password kindly - ')
             save_user(create_user(user_name, password))
             # print(" ")
-            print(f' succesful! New Account  has been Created for: {user_name} using password: {password}')
+            print(f' succesful! New Account  has been Created for: {useer_name} using password: {password}')
             print('\n')
 
         elif short_code == 'lg':
