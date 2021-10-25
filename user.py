@@ -3,6 +3,7 @@ import pyperclip
 
 
 class User:
+class user:
     '''
     class that allows user to generate user account
     '''
